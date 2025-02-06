@@ -18,6 +18,39 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
 # Data Collection and Prepration
 
 * Data Sources
-  * Sales Transaction Data
-  * Customer Data
-  * 
+  * Sales Transaction Data- Contains order details, product info, quantity sold and profit
+  * Customer Data- Includes customer demographics, region and purchase frequency
+  * Product Data- 
+  * Time Dimention- Date based data for trend analysis
+
+* Data Preprossesing and Cleaning
+ 
+ *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
