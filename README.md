@@ -24,9 +24,9 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
   * Product Data- Provides product type and pricing
   * Time Dimention- Date based data for trend analysis
 
-* Data Preprossesing and Cleaning
+# Data Preprossesing and Cleaning
  
- *Data Extraction(SQL)
+ * Data Extraction(SQL)
   * Extracted sales data from relational database using SQL queries
 
  * Data Cleaning(Power Query)
