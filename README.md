@@ -27,7 +27,7 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
 # Data Preprossesing and Cleaning
  
  * Data Extraction(SQL)
-  * Extracted sales data from relational database using SQL queries
+   * Extracted sales data from relational database using SQL queries
 
  * Data Cleaning(Power Query)
    * Handled missing values by applying filtering
