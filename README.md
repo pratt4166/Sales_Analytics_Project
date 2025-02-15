@@ -1,5 +1,5 @@
 
-# Sales_Insights_Project
+# Sales_Analytics_Project
 
 Sales Analysis of a hardware company Atliq Technologies for years 2017-2020 
 
