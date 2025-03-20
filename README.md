@@ -1,4 +1,3 @@
-
 # Sales_Analytics_Project
 
 Sales Analysis of a hardware company Atliq Technologies for years 2017-2020 
@@ -16,15 +15,15 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
 * Evaluate revenue growth and profitability
 * Examine sales distribution across different regions
 
-# Data Collection and Prepration
+# Data Collection and Preparation
 
 * Data Sources
   * Sales Transaction Data- Contains order details, product info, quantity sold and profit
   * Customer Data- Includes customer demographics, region and purchase frequency
   * Product Data- Provides product type and pricing
-  * Time Dimention- Date based data for trend analysis
+  * Time Dimension- Date based data for trend analysis
 
-# Data Preprossesing and Cleaning
+# Data Preprocessing and Cleaning
  
  * Data Extraction(SQL)
    * Extracted sales data from relational database using SQL queries
@@ -45,7 +44,7 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
  * Key Metrics (KPI's)
    * Total Sales Revenue- Sum of all sales transactions
    * Profit Margin %- (Profit/Revenue) x 100
-   * Sales Growth- (Current period revenue / Previos period revenue) 
+   * Sales Growth- (Current period revenue / Previous period revenue) 
    * Profit Margin Contribution (for e.g., markets, revenue)- (Profit margin / Total Profit Margin) x 100
    * Profit Target- Created a field parameter to keep a check on targets fulfillment
 
@@ -54,8 +53,8 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
    * Overall Sales Performance
      * The company generated 985 million in total sales revenue over the analysed period.
      * The sales numbers clocked to 2 million durind this period.
-     * The peak sales perion was observed in (January to August), likely due to seasonal demand or promotions.
-     * The lowest sales months were September to December, suggesting a potential need for marketind efforts or discounts during these periods.
+     * The peak sales were observed in (January to August), likely due to seasonal demand or promotions.
+     * The lowest sales months were September to December, suggesting a potential need for marketing efforts or discounts during these periods.
      * Electricalsara contributed most in the company's revenue with 65 million in sale amount.
      * Electricalsara was the also the customer that made the highest sales by 1 million.
 
@@ -81,7 +80,7 @@ This project aims to analyse sales data of "Atliq Technologies" to extract meani
      * Revenue trend was seen growing in the years 2017, 2018 while in the upcoming years 2019,2020 the trend was steadily decreasing towards the end of the year.
      * Amount of sales done was the highest in 2018 with 997K and the year 2020 saw a drastic decrease in sales accounting just 350K sales in total which could be due to the pandemic situation.
      * Revenue also declined in these years with 2018 generating 414M to 2020 generating just 142M.
-     * Profit made durind this period was around 20 million in the years 2018-19 whereas it hit the lowest in 2020 with a mere value of 2.1 million
+     * Profit made during this period was around 20 million in the years 2018-19 whereas it hit the lowest in 2020 with a mere value of 2.1 million
 
 
 
